@@ -1,0 +1,14 @@
+[game]
+version = "0.1.0"
+audience = "everyone"
+genres = []
+orientation = "natural"
+inputs = [
+  "keyboard-mouse",
+  "touch"
+]
+price = 0
+visibility = "unlisted"
+
+[workflow]
+deploy_dir = ".arcadible-public"
